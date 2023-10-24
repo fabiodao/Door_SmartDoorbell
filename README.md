@@ -3,3 +3,6 @@
  A smart doorbel implemented on a raspberry pi using buildroot
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fabiodao/Door_SmartDoorbell/assets/73181897/e9df3100-df9a-4505-ab51-80c5c614c2d4">
+<\picture>
