@@ -4,4 +4,4 @@
 
 
 
-![door](https://github.com/fabiodao/Door_SmartDoorbell/assets/73181897/489bc37c-4a7f-4b9a-b99c-65eaf1af6cc7#gh-dark-mode-only)
+![door](https://github.com/fabiodao/Door_SmartDoorbell/assets/73181897/489bc37c-4a7f-4b9a-b99c-65eaf1af6cc7#gh-dark-mode-only =100x)
