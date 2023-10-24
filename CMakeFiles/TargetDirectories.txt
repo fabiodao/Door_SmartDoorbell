@@ -1,0 +1,3 @@
+/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles/mainlocal.elf.dir
+/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles/edit_cache.dir
+/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles/rebuild_cache.dir

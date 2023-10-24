@@ -1,0 +1,42 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+/usr/bin/cmake -S/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code -B/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code//CMakeFiles/progress.marks
+make -s -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+make -s -f CMakeFiles/mainlocal.elf.dir/build.make CMakeFiles/mainlocal.elf.dir/depend
+make[2]: Entering directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+cd /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles/mainlocal.elf.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+make -s -f CMakeFiles/mainlocal.elf.dir/build.make CMakeFiles/mainlocal.elf.dir/build
+ 
+make[2]: Entering directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/mainlocal.elf.dir/mainlocal.cpp.o"
+/home/vitor/buildroots/Fabio/buildroot-2021.08/output/host/bin/arm-buildroot-linux-uclibcgnueabihf-g++  -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/include -I/home/vitor/buildroots/Fabio/buildroot-2021.08/output/target/usr/lib -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/inc -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/../inc -isystem /usr/local/include/opencv4 -g -lpthread -lpython3.9 -lrt -std=gnu++11 -MD -MT CMakeFiles/mainlocal.elf.dir/mainlocal.cpp.o -MF CMakeFiles/mainlocal.elf.dir/mainlocal.cpp.o.d -o CMakeFiles/mainlocal.elf.dir/mainlocal.cpp.o -c /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/mainlocal.cpp
+ 
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=2 "Building CXX object CMakeFiles/mainlocal.elf.dir/src/CCamera.cpp.o"
+ 
+/home/vitor/buildroots/Fabio/buildroot-2021.08/output/host/bin/arm-buildroot-linux-uclibcgnueabihf-g++  -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/include -I/home/vitor/buildroots/Fabio/buildroot-2021.08/output/target/usr/lib -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/inc -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/../inc -isystem /usr/local/include/opencv4 -g -lpthread -lpython3.9 -lrt -std=gnu++11 -MD -MT CMakeFiles/mainlocal.elf.dir/src/CCamera.cpp.o -MF CMakeFiles/mainlocal.elf.dir/src/CCamera.cpp.o.d -o CMakeFiles/mainlocal.elf.dir/src/CCamera.cpp.o -c /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/src/CCamera.cpp
+ 
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=3 "Building CXX object CMakeFiles/mainlocal.elf.dir/src/CDatabase.cpp.o"
+ 
+/home/vitor/buildroots/Fabio/buildroot-2021.08/output/host/bin/arm-buildroot-linux-uclibcgnueabihf-g++  -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/include -I/home/vitor/buildroots/Fabio/buildroot-2021.08/output/target/usr/lib -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/inc -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/../inc -isystem /usr/local/include/opencv4 -g -lpthread -lpython3.9 -lrt -std=gnu++11 -MD -MT CMakeFiles/mainlocal.elf.dir/src/CDatabase.cpp.o -MF CMakeFiles/mainlocal.elf.dir/src/CDatabase.cpp.o.d -o CMakeFiles/mainlocal.elf.dir/src/CDatabase.cpp.o -c /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/src/CDatabase.cpp
+ 
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=4 "Building CXX object CMakeFiles/mainlocal.elf.dir/src/CLivestream.cpp.o"
+ 
+/home/vitor/buildroots/Fabio/buildroot-2021.08/output/host/bin/arm-buildroot-linux-uclibcgnueabihf-g++  -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/include -I/home/vitor/buildroots/Fabio/buildroot-2021.08/output/target/usr/lib -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/inc -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/../inc -isystem /usr/local/include/opencv4 -g -lpthread -lpython3.9 -lrt -std=gnu++11 -MD -MT CMakeFiles/mainlocal.elf.dir/src/CLivestream.cpp.o -MF CMakeFiles/mainlocal.elf.dir/src/CLivestream.cpp.o.d -o CMakeFiles/mainlocal.elf.dir/src/CLivestream.cpp.o -c /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/src/CLivestream.cpp
+ 
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=5 "Building CXX object CMakeFiles/mainlocal.elf.dir/src/CLocalS.cpp.o"
+ 
+/home/vitor/buildroots/Fabio/buildroot-2021.08/output/host/bin/arm-buildroot-linux-uclibcgnueabihf-g++  -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/include -I/home/vitor/buildroots/Fabio/buildroot-2021.08/output/target/usr/lib -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/inc -I/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/../inc -isystem /usr/local/include/opencv4 -g -lpthread -lpython3.9 -lrt -std=gnu++11 -MD -MT CMakeFiles/mainlocal.elf.dir/src/CLocalS.cpp.o -MF CMakeFiles/mainlocal.elf.dir/src/CLocalS.cpp.o.d -o CMakeFiles/mainlocal.elf.dir/src/CLocalS.cpp.o -c /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/src/CLocalS.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=6 "Linking CXX executable bin/mainlocal.elf"
+/usr/bin/cmake -E cmake_link_script CMakeFiles/mainlocal.elf.dir/link.txt --verbose=
+make[2]: Leaving directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+ 
+/usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target mainlocal.elf"
+make[1]: Leaving directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+ 
+/usr/bin/cmake -E cmake_progress_start /home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code/CMakeFiles 0
+ 
+make: Leaving directory '/home/vitor/aulas/Project_Final/Video_DoorBell_Code/Video_DoorBell_Code'
+ 
