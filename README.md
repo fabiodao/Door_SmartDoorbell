@@ -2,5 +2,3 @@
 
  A smart doorbel implemented on a raspberry pi using buildroot
 
-
-![door](https://github.com/fabiodao/Door_SmartDoorbell/assets/73181897/95e20523-fe0b-4035-8fe7-8987a302b72e)
